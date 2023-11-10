@@ -699,6 +699,8 @@ SMALL PHONES, LARGE SMARTPHONES
 
   .movie__description--info {
     margin-top: 16px;
+    width: 100%;
+    max-width: 300px;
   }
 
   .movie__title--info {
